@@ -183,4 +183,4 @@ git push -u origin main
 In the classroom, you need to submit:
 * Your Github Repository (make sure its public)
 * A screen recording (max 10-15 seconds) showing your final results in the terminal.
-Displaying README.md.
+
